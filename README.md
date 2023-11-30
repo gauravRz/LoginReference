@@ -16,8 +16,9 @@ npm install
 
 npm run dev
 
-Usage
+### Usage
 
-    Click on the "Sign In with Google" button.
-    You will be redirected to Google's authentication page.
-    After successful authentication, you'll be redirected back to the app with your Google account information displayed.
+Click on the "Sign In with Google" button.
+You will be redirected to Google's authentication page.
+After successful authentication, you'll be redirected back to the app with your Google account information displayed.
+
