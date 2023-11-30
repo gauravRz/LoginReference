@@ -39,14 +39,25 @@ Feel free to explore additional features and functionalities within the app.
 ### Screenshots
 
 **Login Page**
+---
 ![](src/assets/images/login.jpg)
 
+---
+---
+
 **Popup Google SignIN**
+---
 ![](src/assets/images/popup.jpg)
 
+---
+---
+
 **Home**
+---
 ![](src/assets/images/home.jpg)
 
+---
+---
 
 
 ### Configuration
