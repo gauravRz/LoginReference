@@ -54,16 +54,16 @@ const firebaseConfig = {
 
 
 ## Screenshots
-![](src/assets/login.png)
+![](src/assets/login.jpg)
 
 
 
 
-![](/src/assets/images/popup.png)
+![](/src/assets/images/popup.jpg)
 
 
 
 
-![](/src/assets/images/home.png)
+![](/src/assets/images/home.jpg)
 
 
