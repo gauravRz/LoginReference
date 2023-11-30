@@ -26,9 +26,16 @@ cd LoginReference
 
 ### Usage
 
-Click on the "Sign In with Google" button.
-You will be redirected to Google's authentication page.
-After successful authentication, you'll be redirected back to the app with your Google account information displayed.
+Follow these steps to use the application:
+
+- Click on the "Sign In with Google" button.
+- You will be redirected to Google's authentication page.
+- After successful authentication, you'll be redirected back to the app.
+- Your Google account information will be displayed on the app.
+
+Feel free to explore additional features and functionalities within the app.
+
+
 
 ### Configuration
 
