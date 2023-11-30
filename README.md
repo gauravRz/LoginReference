@@ -7,6 +7,10 @@ Make sure you have Node.js and npm installed on your machine.
 - Node.js: [Download here](https://nodejs.org/)
 
 
+### **Run the application**
+
+    npm run dev
+
 
 ### **Clone the project*
 
