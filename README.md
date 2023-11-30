@@ -53,7 +53,7 @@ const firebaseConfig = {
 };
 
 
-## Screenshots
+
 ![](src/assets/login.jpg)
 
 
