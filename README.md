@@ -54,11 +54,10 @@ const firebaseConfig = {
   appId: 'YOUR_FIREBASE_APP_ID',
   measurementId: 'YOUR_FIREBASE_MEASUREMENT_ID',
 };
+```
 
-
-### Adding an Image****
+### Adding an Image
 **Login Page**
-```markdown
 ---
 ![](src/assets/images/login.jpg)
 
