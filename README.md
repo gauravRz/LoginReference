@@ -6,11 +6,11 @@ Make sure you have Node.js and npm installed on your machine.
 
 - Node.js: [Download here](https://nodejs.org/)
 
-```bash
+
 git clone https://github.com/gauravRz/LoginReference.git
 cd LoginReference
 
-```bash
+
 npm install
 
 ### **Run the application**
