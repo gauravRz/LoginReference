@@ -7,14 +7,12 @@ Make sure you have Node.js and npm installed on your machine.
 - Node.js: [Download here](https://nodejs.org/)
 
 
-### **Run the application**
+### **Clone the project***
 
-    npm run dev
+    npm run dev git clone https://github.com/gauravRz/LoginReference.git
 
 
-### **Clone the project*
 
-    npm run dev
 
 cd LoginReference
 
