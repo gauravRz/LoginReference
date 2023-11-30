@@ -36,26 +36,6 @@ Follow these steps to use the application:
 Feel free to explore additional features and functionalities within the app.
 
 
-
-### Configuration
-
-Open `src/firebase/index.ts` and replace the following configuration with your Firebase project details:
-
-```javascript
-const firebaseConfig = {
-  apiKey: 'YOUR_FIREBASE_API_KEY',
-  authDomain: 'YOUR_FIREBASE_AUTH_DOMAIN',
-  projectId: 'YOUR_FIREBASE_PROJECT_ID',
-  storageBucket: 'YOUR_FIREBASE_STORAGE_BUCKET',
-  messagingSenderId: 'YOUR_FIREBASE_MESSAGING_SENDER_ID',
-  appId: 'YOUR_FIREBASE_APP_ID',
-  measurementId: 'YOUR_FIREBASE_MEASUREMENT_ID',
-};
-
-
-
-
-
 ### Screenshots
 
 ![](src/assets/login.jpg)
@@ -71,3 +51,17 @@ const firebaseConfig = {
 ![](/src/assets/images/home.jpg)
 
 
+### Configuration
+
+Open `src/firebase/index.ts` and replace the following configuration with your Firebase project details:
+
+```javascript
+const firebaseConfig = {
+  apiKey: 'YOUR_FIREBASE_API_KEY',
+  authDomain: 'YOUR_FIREBASE_AUTH_DOMAIN',
+  projectId: 'YOUR_FIREBASE_PROJECT_ID',
+  storageBucket: 'YOUR_FIREBASE_STORAGE_BUCKET',
+  messagingSenderId: 'YOUR_FIREBASE_MESSAGING_SENDER_ID',
+  appId: 'YOUR_FIREBASE_APP_ID',
+  measurementId: 'YOUR_FIREBASE_MEASUREMENT_ID',
+};
