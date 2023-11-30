@@ -54,7 +54,7 @@ const firebaseConfig = {
 
 
 ## Screenshots
-![Alt text](src/assets/images/login.png)
+![](src/assets/login.png)
 
 
 
