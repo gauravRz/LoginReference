@@ -21,7 +21,7 @@ cd LoginReference
 
     npm run dev
 
-    npm install
+    
 
 ### Usage
 
