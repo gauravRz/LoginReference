@@ -35,6 +35,11 @@ Follow these steps to use the application:
 
 Feel free to explore additional features and functionalities within the app.
 
+
+
+**### Screenshots**
+
+
 ### Configuration
 
 Open `src/firebase/index.ts` and replace the following configuration with your Firebase project details:
@@ -51,10 +56,9 @@ const firebaseConfig = {
 };
 
 
-
-**### Screenshots**
-
+### Adding an Image****
 **Login Page**
+```markdown
 ---
 ![](src/assets/images/login.jpg)
 
